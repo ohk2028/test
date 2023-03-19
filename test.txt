@@ -2,4 +2,4 @@ hihi
 #include <stdio.h>
 
 printf("hihi");
-print "hihi"
+print "hello"
